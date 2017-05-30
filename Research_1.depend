@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1493723947 source:/home/pi/Reasrch_1/Research_1/main.cpp
+	<stdio.h>
+	<iostream>
+	<opencv2/opencv.hpp>
+	<opencv2/core.hpp>
+	<opencv2/highgui/highgui.hpp>
+	<opencv2/imgproc/imgproc.hpp>
+	<opencv2/video/video.hpp>
+	<opencv2/objdetect/objdetect.hpp>
+	<ctime>
+	<omp.h>
+	<map>
+
